@@ -1,0 +1,6 @@
+*.pyc
+.vscode
+saved_imgs/*
+processed_imgs/*
+*DS_Store
+.venv
